@@ -1,0 +1,132 @@
+{"properties": [
+  {
+    "name": "OPEN",
+    "type": "java.lang.String",
+    "description": "A description for 'OPEN'"
+  },
+  {
+    "name": "CLIENT_ACCESS_TOKEN",
+    "type": "java.lang.String",
+    "description": "A description for 'CLIENT_ACCESS_TOKEN'"
+  },
+  {
+    "name": "CLIENT_ACCESS_TOKEN",
+    "type": "java.lang.String",
+    "description": "A description for 'CLIENT_ACCESS_TOKEN'"
+  },
+  {
+    "name": "CLIENT_ACCESS_TOKEN",
+    "type": "java.lang.String",
+    "description": "A description for 'CLIENT_ACCESS_TOKEN'"
+  },
+  {
+    "name": "CLOSE",
+    "type": "java.lang.String",
+    "description": "A description for 'CLOSE'"
+  },
+  {
+    "name": "Client_Access_Token",
+    "type": "java.lang.String",
+    "description": "A description for 'Client_Access_Token'"
+  },
+  {
+    "name": "XYZ",
+    "type": "java.lang.String",
+    "description": "A description for 'XYZ'"
+  },
+  {
+    "name": "abcz_yzc",
+    "type": "java.lang.String",
+    "description": "A description for 'abcz_yzc'"
+  },
+  {
+    "name": "ACCESS_TOKEN",
+    "type": "java.lang.String",
+    "description": "A description for 'ACCESS_TOKEN'"
+  },
+  {
+    "name": "ACCESS_TOKEN",
+    "type": "java.lang.String",
+    "description": "A description for 'ACCESS_TOKEN'"
+  },
+  {
+    "name": "TOKEN",
+    "type": "java.lang.String",
+    "description": "A description for 'TOKEN'"
+  },
+  {
+    "name": "UNKNOWN_INPUT",
+    "type": "java.lang.String",
+    "description": "A description for 'UNKNOWN_INPUT'"
+  },
+  {
+    "name": "UNKNOWN",
+    "type": "java.lang.String",
+    "description": "A description for 'UNKNOWN'"
+  },
+  {
+    "name": "GET_ZENSAR_SITE_DATA",
+    "type": "java.lang.String",
+    "description": "A description for 'GET_ZENSAR_SITE_DATA'"
+  },
+  {
+    "name": "GETZENSARSITEDATA",
+    "type": "java.lang.String",
+    "description": "A description for 'GETZENSARSITEDATA'"
+  },
+  {
+    "name": "GET_ZENSAR_SITE_DATA",
+    "type": "java.lang.String",
+    "description": "A description for 'GET_ZENSAR_SITE_DATA'"
+  },
+  {
+    "name": "GET_ZENSAR_SITE_DATA",
+    "type": "java.lang.String",
+    "description": "A description for 'GET_ZENSAR_SITE_DATA'"
+  },
+  {
+    "name": "WELCOME_ACTION",
+    "type": "java.lang.String",
+    "description": "A description for 'WELCOME_ACTION'"
+  },
+  {
+    "name": "GET_USER_RATING",
+    "type": "java.lang.String",
+    "description": "A description for 'GET_USER_RATING'"
+  },
+  {
+    "name": "SMALL_TALK",
+    "type": "java.lang.String",
+    "description": "A description for 'SMALL_TALK'"
+  },
+  {
+    "name": "DOMAINS",
+    "type": "java.lang.String",
+    "description": "A description for 'DOMAINS'"
+  },
+  {
+    "name": "GET_USER_PROFILE_DATA",
+    "type": "java.lang.String",
+    "description": "A description for 'GET_USER_PROFILE_DATA'"
+  },
+  {
+    "name": "CHANGE_THE_VOICE",
+    "type": "java.lang.String",
+    "description": "A description for 'CHANGE_THE_VOICE'"
+  },
+  {
+    "name": "ZENHELP",
+    "type": "java.lang.String",
+    "description": "A description for 'ZENHELP'"
+  },
+  {
+    "name": "GET_ZHELP_CATEGORY_FAQ",
+    "type": "java.lang.String",
+    "description": "A description for 'GET_ZHELP_CATEGORY_FAQ'"
+  },
+  {
+    "name": "GET_EDGE_DATA",
+    "type": "java.lang.String",
+    "description": "A description for 'GET_EDGE_DATA'"
+  }
+]}
